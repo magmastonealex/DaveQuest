@@ -15,4 +15,5 @@ The collisions are interesting, it's the first time I've successfully implemente
 
 The enemy AI was surprisingly easy to implement (once player collisions were figured out...), although there isn't a lot of "thinking" going on.
 
-Source code is available [here](jacknoir.no-ip.org/game/code.zip). You will need MinGW installed, along with SDL, SDL_Image and SDL_TTF. 
+To compile: You will need MinGW installed, along with SDL, SDL_Image and SDL_TTF. 
+
